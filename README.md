@@ -3,7 +3,7 @@ This python script is used to extract all file paths from the Strace result. For
 
 For Example:
 
-root@cybermizz:~# strace <command> 2> output.txt
+root@cybermizz:~# strace anycommand 2> output.txt
 
 Now put the filename like "output.txt" with its full pathname in "filepath" variable at the start of the python script.
 
