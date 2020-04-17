@@ -1,6 +1,6 @@
 from array import *
 
-filepath = '/root/Desktop/sparta_mizzhome'
+filepath = '/root/Desktop/output.txt'
 
 #indexes value
 quote_index = 0
